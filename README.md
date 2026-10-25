@@ -1,6 +1,7 @@
 # Sales Performance Dashboard
 
 ## Project overview
+<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/3b3658c6-d2fd-48cb-8728-38487123c272" />
 
 This project uses Microsoft Excel to explore sales data through PivotTables, charts, and an interactive dashboard. It lets viewers compare sales across customer segments, regions, states, and time periods.
 
